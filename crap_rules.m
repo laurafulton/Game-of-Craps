@@ -1,0 +1,3 @@
+function crap_rules
+disp('Craps is a dice game played with 2 die. The player begins by making first roll: If the roll is a 7 or 11 ? Player wins ? If the roll is a 2, 3, or 12 ? Player loses. Otherwise the player continues rolling:If after the first roll, the player rolls a 7 ? Player loses. If the player rolls the same total as the first roll ? Player wins. Player continues rolling until the first roll is repeated or a 7 is rolled. Player can start game with any amount of money, and can bet any amount (<= total) for each game, until out of money.')
+end
